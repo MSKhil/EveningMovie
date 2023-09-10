@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EveningMovie</string>
+    <string name="main_center">Не можете выбрать фильм на вечер, который точно понравится? Хочешь найти что посмотреть - попробуйте случайный поиск в нашем приложении! </string>
+    <string name="button_main">Нажми и получи фильм для приятного досуга</string>
+    <string name="rating">Рейтинг</string>
+    <string name="genre">Жанр</string>
+    <string name="description">Описание</string>
+    <string name="actors">Актеры</string>
+    <string name="director">Режисер</string>
+    <string name="studio">Студия</string>
+</resources>
